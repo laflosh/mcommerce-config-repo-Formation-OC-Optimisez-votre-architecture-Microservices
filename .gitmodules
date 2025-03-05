@@ -1,3 +1,0 @@
-[submodule "config-server-repo"]
-    path = config-server-repo
-    url = https://github.com/laflosh/mcommerce-config-repo-Formation-OC-Optimisez-votre-architecture-Microservices.git
